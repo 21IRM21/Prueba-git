@@ -1,0 +1,11 @@
+body {
+    background-color: chartreuse;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    color:blue;
+    font-weight: lighter;
+    font-size: large;
+}
