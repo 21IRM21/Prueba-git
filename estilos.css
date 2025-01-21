@@ -6,7 +6,7 @@ h1 {
 }
 ul {
     color:orange;
-    font-weight: lighter;
+    font-weight: lighter,bolder;
     font-size: large;
 }
 .navegacion{
