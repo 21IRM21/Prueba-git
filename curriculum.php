@@ -7,11 +7,11 @@
 <body>
 
     <?php
-    $nombre = "Lucas";
-    $apellidos = "Roldán Villoslada";
-    $fecha_nacimiento = "13/09/1979"; 
-    $centro = "Univ. Granada";
-    $ano = "2009";
+    $nombre = "User";
+    $apellidos = "Surname";
+    $fecha_nacimiento = "00/00/1900"; 
+    $centro = "Univ.XXXX";
+    $ano = "XXXX";
     $titulacion = "Ingeniería de Sistemas";
     $empresa_nombre = "IBM";    
     $fecha_inicio = "2002-01-01";
